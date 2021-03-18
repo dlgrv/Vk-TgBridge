@@ -18,6 +18,6 @@
 - telebot
 - vk_api (pip install vk_api)
 
-Пример сгенерированного фото:
+Пример:
 
 ![alt tag](https://i.ibb.co/YBzRM31/photo-2021-03-18-16-22-26.jpg)​ ![alt tag](https://i.ibb.co/bNSHgKq/photo-2021-03-18-16-22-27.jpg)​
