@@ -20,4 +20,4 @@
 
 Пример:
 
-![alt tag](https://i.ibb.co/YBzRM31/photo-2021-03-18-16-22-26.jpg)​ ![alt tag](https://i.ibb.co/bNSHgKq/photo-2021-03-18-16-22-27.jpg)​
+![alt tag](https://i.ibb.co/gJm8hh5/photo-2021-03-18-16-22-26.jpg)​ ![alt tag](https://i.ibb.co/bNSHgKq/photo-2021-03-18-16-22-27.jpg)​
